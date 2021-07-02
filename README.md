@@ -9,3 +9,5 @@ the user will have to choose from the database of open-ended or American questio
 you just need to enter the number of questions you want in the test.
 
 **You can also edit the question / answer database by: adding a question (American / Open), editing an existing question and removing a question from the database.**
+
+In this project we have implementation of: MVC pattern,GUI.
