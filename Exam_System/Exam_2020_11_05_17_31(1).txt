@@ -1,0 +1,30 @@
+1)What is the exception of the following options? 
+	1) Orange
+	2)  Lemon
+	3)  Tomato
+	4) No answer is true.
+
+2)4+5=? 
+	1) 128
+	2) 3000
+	3) 9
+	4) No answer is true.
+
+3)What is the color of the lemon? 
+	1) Yellow
+	2)  White
+	3)  Pink
+	4) No answer is true.
+
+4)Who grows on the tree? 
+	1) Apple
+	2) Etrog
+	3) Grapes
+	4) No answer is true.
+
+5)Which fruit is of the seven species? 
+	1)  Apple
+	2)  Banana
+	3)  Etrog
+	4) No answer is true.
+

@@ -1,0 +1,34 @@
+What is the exception of the following options? ;<AmericanQuestion>
+Orange;false, Lemon;false, Cucumber;true, Kiwi;false, Tomato;false
+What is the color of the lemon? ;<AmericanQuestion>
+Yellow;true, White;false, Red;false, Black;false, Pink;false
+Who grows on the tree? ;<AmericanQuestion>
+Pear;true,Potato;false,Apple;true,Etrog;true,Grapes;false,Garlic;false 
+Which fruit is of the seven species? ;<AmericanQuestion>
+Pomegranate;true, Apple;false, Banana;false, Etrog;false
+4+5=? ;<AmericanQuestion>
+128;false,3000;false,9;true,5;false, infinity;false
+The donkey's voice is E-a? (Yes/No) ;<OpenQuestion>
+Yes
+complete- "I,I,I follow i follow you deep..." ;<AmericanQuestion>
+pool;false,ocean;false,sea;true,nachos;false , Tru-Tru-A;false
+complete - "corona Time..." ;<AmericanQuestion>
+best time of my life; false,it's will pass;true,A very dangerous time for humanity;false,Period of savings inheritance;true,Great time for all inclusive in Greece/Turkey;true 
+The name of the boot country;<OpenQuestion>
+Italy
+Who brought the corona?;<AmericanQuestion>
+bill Gates;false, The Chinese;false, The Bats;true, No one is a transient flu;false, The pigs;false
+hi?;<OpenQuestion>
+twa
+3*5;<OpenQuestion>
+15
+3*5+4;<OpenQuestion>
+19
+5+5*5;<OpenQuestion>
+30
+2+2;<AmericanQuestion>
+1;false, 3;false, 4;true, 24;false
+when you can start to work?;<OpenQuestion>
+tomorrow!
+8*8;<AmericanQuestion>
+60;false, 61;false, 64;true

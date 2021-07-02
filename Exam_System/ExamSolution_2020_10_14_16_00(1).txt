@@ -1,0 +1,12 @@
+1)complete- "I,I,I follow i follow you deep..." 
+The solution is:sea, 
+2)complete - "corona Time..." 
+The solution is:it's will pass, Period of savings inheritance, 
+3)What is the exception of the following options? 
+The solution is: Cucumber, 
+4)4+5=? 
+The solution is:9, 
+5)Who grows on the tree? 
+The solution is:Pear, Apple, 
+6)Which fruit is of the seven species? 
+The solution is:No answer is true., 

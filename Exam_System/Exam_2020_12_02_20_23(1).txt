@@ -1,0 +1,13 @@
+1)What is the exception of the following options? 
+	1) Orange
+	2)  Cucumber
+	3) No answer is true.
+	4) More than one correct answer.
+
+2)What is the color of the lemon? 
+	1)  White
+	2)  Red
+	3) No answer is true.
+	4) More than one correct answer.
+
+3)The donkey's voice is E-a? (Yes/No) 

@@ -1,0 +1,10 @@
+1)What is the exception of the following options? 
+The solution is:No answer is true., 
+2)4+5=? 
+The solution is:9, 
+3)What is the color of the lemon? 
+The solution is:Yellow, 
+4)Who grows on the tree? 
+The solution is:Apple, Etrog, 
+5)Which fruit is of the seven species? 
+The solution is:No answer is true., 

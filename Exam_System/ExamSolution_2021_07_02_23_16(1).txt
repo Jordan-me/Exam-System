@@ -1,0 +1,22 @@
+1)What is the exception of the following options? 
+The solution is: Cucumber, 
+2)What is the color of the lemon? 
+The solution is:No answer is true., 
+3)Who grows on the tree? 
+The solution is:Apple, Pear, More than one correct answer., 
+4)Which fruit is of the seven species? 
+The solution is:Pomegranate, 
+5)4+5=? 
+The solution is:9, 
+6)complete- "I,I,I follow i follow you deep..." 
+The solution is:No answer is true., 
+7)The donkey's voice is E-a? (Yes/No) 
+Yes
+8)The name of the boot country
+Italy
+9)5+5*5
+30
+10)3*5
+15
+11)3*5+4
+19

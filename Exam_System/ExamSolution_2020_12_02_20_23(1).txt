@@ -1,0 +1,6 @@
+1)What is the exception of the following options? 
+The solution is: Cucumber, 
+2)What is the color of the lemon? 
+The solution is:No answer is true., 
+3)The donkey's voice is E-a? (Yes/No) 
+Yes
